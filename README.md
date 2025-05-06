@@ -1,1 +1,3 @@
 # 4S3P-21700-Pack
+
+This repo contains hardware design files for a 4S3P lithium ion battery pack. The cells used in this pack are 21700 - the cell capacity is dependent on the specific cell purchased. WARNING: Lithium ion batteries are dangerous. You must understand all the risks of working with unprotected lithium-based cells before doing so. Do not attempt to replicate without a solid understanding of lihtium-based batteries and their dangers - replicate at your own risk.
